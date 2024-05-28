@@ -1,0 +1,10 @@
+pip install opencv-python
+Pip install cmake
+Pip install dlib
+pip install setuptools
+
+# hand gesture
+pip install mediapipe
+
+# ML library
+pip install scikit-learn
